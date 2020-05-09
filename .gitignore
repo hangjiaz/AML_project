@@ -1,0 +1,10 @@
+*.html
+*.rds
+*.pdf
+*.DS_Store
+*.Rdata
+*.Rhistory
+*.pptx
+*.docx
+*.csv
+ 
